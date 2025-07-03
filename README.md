@@ -1,4 +1,8 @@
 
+![Screenshot 2024-08-14 135630](https://github.com/user-attachments/assets/644f539a-8308-4ffc-b44d-b65c457dc98e)
+
+
+
 # Mini Machine Gun M134 – CAD Project
 
 This project showcases a high-detail 3D CAD model of the **Mini Machine Gun M134**, designed entirely in **SolidWorks**. It was developed as part of a mechanical design initiative and featured in the **Independence Day exhibition** at IIT Ropar under the **CIM Club**.
@@ -41,16 +45,6 @@ This was my **second major project** in SolidWorks and a big step forward in lea
 - Circular Pattern, Revolve, and Extrude features
 - Realistic rendering (SolidWorks Visualize)
 - Technical drawing creation (optional export)
-
----
-
-## 📸 Preview
-
-![Mini Gun Render](![Screenshot 2024-08-14 135650](https://github.com/user-attachments/assets/09dfa7b8-ac18-45bd-8b2c-81bb51af9cea)
-)  
-*Rendered view of the assembled Mini Machine Gun M134 model.*
-
----
 
 ## 📂 Files Included
 
