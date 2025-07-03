@@ -5,7 +5,10 @@
 
 # Mini Machine Gun M134 – CAD Project
 
-This project showcases a high-detail 3D CAD model of the **Mini Machine Gun M134**, designed entirely in **SolidWorks**. It was developed as part of a mechanical design initiative and featured in the **Independence Day exhibition** at IIT Ropar under the **CIM Club**.
+The Mini Machine Gun M134 is a personal CAD project modeled entirely in SolidWorks, inspired by the real-world rotary barrel system. Designed as my second major project, it focuses on detailed mechanical structure, precision assembly, and realistic aesthetics. 
+I also performed motion analysis to simulate the barrel rotation, adding dynamic functionality to the model. This project was showcased during the Independence Day celebration at IIT Ropar, reflecting my passion for mechanical design, simulation, and additive manufacturing.
+
+Showcased during the Independence Day celebration at IIT Ropar, this model reflects my passion for mechanical design and additive manufacturing, and marks a key milestone in my journey as a design enthusiast.
 
 ---
 
@@ -55,10 +58,6 @@ This was my **second major project** in SolidWorks and a big step forward in lea
 
 ---
 
-## 📢 Showcase
-
-This model was proudly displayed during the **Independence Day celebration at IIT Ropar**, where it caught attention for its **engineering detail and visual appeal**. The design served as a learning milestone and inspired further exploration into **product design and defense-related modeling**.
-
 ---
 
 ## 📬 Contact
@@ -67,14 +66,6 @@ Designed by **Himanshu Verma**
 🎓 Undergraduate at IIT Ropar  
 ✉️ [LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/himanshu-verma-18329728a))  
 📬 Email: himanshu.workspace21@gmail.com
-
----
-
-## ⭐ Future Scope
-
-- Add basic animation to simulate barrel rotation  
-- Explore motor-based motion in simulation tools  
-- Adapt design for 3D printing using STL exports
 
 ---
 
